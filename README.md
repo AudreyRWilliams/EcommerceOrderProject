@@ -31,5 +31,5 @@ This project demonstrates creating a SQL database to track e-commerce orders, cu
 - git add .
 - git commit -m "Initial commit: e-commerce order tracking project"
 - git branch -M main
-- git remote add origin https://github.com/<b>yourusername</b>/EcommerceOrderProject.git
+- git remote add origin https://github.com/yourusername/EcommerceOrderProject.git
 - git push -u origin main
